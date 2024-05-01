@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "fastapi": "^0.0.8",
+    "implicit": "^0.0.2",
     "query": "^0.2.0"
   }
 }
